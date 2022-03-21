@@ -34,4 +34,4 @@ Mean NDVI repository for EDC BYOA example
         "optional": false,
         "type": "daterange"
     }
-]```
+]
