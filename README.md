@@ -1,7 +1,8 @@
 # byoa-mean-ndvi
 Mean NDVI repository for EDC BYOA example
 
-## Parameters 
+
+```## Parameters 
 
 [
     {
@@ -33,4 +34,4 @@ Mean NDVI repository for EDC BYOA example
         "optional": false,
         "type": "daterange"
     }
-]
+]```
