@@ -1,4 +1,4 @@
-# Mean NDVI Bring Your Own Algorithm Repository
+# Mean NDVI: Bring Your Own Algorithm Repository
 Mean NDVI repository for EDC BYOA example
 
 
